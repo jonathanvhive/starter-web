@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Copyright
 
 bla bla bla
+
+## Some text
+
+bla bla bla
