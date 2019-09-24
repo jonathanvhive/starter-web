@@ -17,3 +17,5 @@ bla bla bla
 ## More text
 
 Adding a line for rebasing example, more changes from myfeature branch
+
+## Emergency fix
