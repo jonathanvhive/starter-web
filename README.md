@@ -13,3 +13,7 @@ bla bla bla
 ## Some text
 
 bla bla bla
+
+## More text
+
+Adding a line for rebasing example
